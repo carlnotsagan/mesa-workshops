@@ -2,6 +2,6 @@
 collection of mesa tutorial materials
 
 
-* UCSC, MESA Workshop August 6, 2025 - [Link to data](https://emailarizona-my.sharepoint.com/:u:/r/personal/carlnotsagan_arizona_edu/Documents/data.zip?csf=1&web=1&e=t2Aehe).
+* UCSC, MESA Workshop August 6, 2025 - [Link to data](https://drive.google.com/file/d/13yCiYj28w60p8pwhDhiSo2Bo0GxFVBB2/view?usp=sharing).
     * Compactness and Compact Remnants
     * Understanding the evolution of Red Super Giants 
